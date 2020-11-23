@@ -1,0 +1,60 @@
+body{background-image: url("../img/fondoa.jpeg");}
+
+.navbar{
+    padding: 1% 18% 0.5% 15%;
+    width: 100%;
+}
+
+.navbar li a{
+    color: #000000;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bold;
+}
+
+.img-fauna{
+    /* background-color: #75757593; */
+    padding: 2%;
+    border-radius: 10px;
+}
+
+.img-testimonio{
+    height: 200px;
+    width: 200px;
+    border-radius: 100px;
+}
+
+.texto{
+    padding: 3%;
+    border-radius: 10px;
+}
+
+.appweb{border-top: #a5a4a4a8 solid;}
+
+.form-registro{
+    background-image: url("../img/form-registro.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.form-registro input{
+    background: transparent;
+    border-color: #ffffff;
+}
+
+.form-registro input::placeholder{
+    color: #ffffff;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.form-registro select{
+    background: transparent;
+    color: #ffffff;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.fondo-listado{background-image: url("../img/fondo-listado.jpg");}
+
+.form-group input{
+    color: #ffffff;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
